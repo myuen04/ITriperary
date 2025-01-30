@@ -1,2 +1,2 @@
 # iTriperary
-# This will simplify the trip planning process.
+# This will simplify the trip planning process
